@@ -4,7 +4,6 @@
 class ProductPrice:
     pass
 
-
 class product:
 
     def __init__(self, price, name, description =""):
